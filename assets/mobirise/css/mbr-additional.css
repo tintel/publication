@@ -33,8 +33,20 @@
 #header4-40 H1 {
   font-size: 16px;
 }
+#header3-82 H3 {
+  text-align: center;
+}
+#header3-82 P {
+  text-align: center;
+}
 #footer1-62 P {
   color: #efefef;
+}
+#header3-84 P {
+  text-align: center;
+}
+#header3-84 H3 {
+  text-align: center;
 }
 #msg-box4-36 .mbr-header__text {
   color: #ffffff;
@@ -69,12 +81,24 @@
 #footer1-62 P {
   color: #efefef;
 }
+#header3-83 H3 {
+  text-align: center;
+}
+#header3-83 P {
+  text-align: center;
+}
 #gallery2-52 SMALL {
   text-align: center;
   color: #cccccc;
 }
 #footer1-62 P {
   color: #efefef;
+}
+#header3-85 P {
+  text-align: center;
+}
+#header3-85 H3 {
+  text-align: center;
 }
 #msg-box4-58 .mbr-header__text {
   color: #c1c1c1;
@@ -103,8 +127,14 @@
 #footer1-62 P {
   color: #efefef;
 }
+#header3-81 H3 {
+  text-align: center;
+}
+#header3-81 P {
+  text-align: center;
+}
 #msg-box4-67 .mbr-header__text {
-  color: #c1c1c1;
+  color: #000000;
 }
 #msg-box4-67 .mbr-header__subtext {
   color: #ffffff;
@@ -113,21 +143,17 @@
   color: #ffffff;
 }
 #msg-box4-67 .mbr-article P {
-  color: #c1c1c1;
+  color: #000000;
 }
 #msg-box4-68 .mbr-header__text {
-  color: #c1c1c1;
+  color: #000000;
 }
 #msg-box4-68 .mbr-header__subtext {
   color: #ffffff;
 }
 #msg-box4-68 .mbr-article {
-  color: #cccccc;
+  color: #000000;
 }
 #msg-box4-68 .mbr-article P {
   color: #c1c1c1;
-}
-#slider2-70 H1 {
-  text-align: right;
-  font-size: 36px;
 }
