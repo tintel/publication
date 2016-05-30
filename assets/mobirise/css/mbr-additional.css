@@ -39,6 +39,12 @@
 #header3-82 P {
   text-align: center;
 }
+#header3-73 P {
+  color: #c1c1c1;
+}
+#header3-73 H3 {
+  color: #c1c1c1;
+}
 #footer1-62 P {
   color: #efefef;
 }
@@ -47,6 +53,18 @@
 }
 #header3-84 H3 {
   text-align: center;
+}
+#header3-32 P {
+  color: #c1c1c1;
+}
+#header3-32 H3 {
+  color: #c1c1c1;
+}
+#header3-35 H3 {
+  color: #c1c1c1;
+}
+#header3-35 P {
+  color: #c1c1c1;
 }
 #msg-box4-36 .mbr-header__text {
   color: #ffffff;
@@ -87,9 +105,15 @@
 #header3-83 P {
   text-align: center;
 }
+#header3-74 H3 {
+  color: #c1c1c1;
+}
 #gallery2-52 SMALL {
   text-align: center;
   color: #cccccc;
+}
+#header3-79 H3 {
+  color: #c1c1c1;
 }
 #footer1-62 P {
   color: #efefef;
@@ -134,7 +158,7 @@
   text-align: center;
 }
 #msg-box4-67 .mbr-header__text {
-  color: #000000;
+  color: #c1c1c1;
 }
 #msg-box4-67 .mbr-header__subtext {
   color: #ffffff;
@@ -143,17 +167,29 @@
   color: #ffffff;
 }
 #msg-box4-67 .mbr-article P {
-  color: #000000;
+  color: #c1c1c1;
 }
 #msg-box4-68 .mbr-header__text {
-  color: #000000;
+  color: #c1c1c1;
 }
 #msg-box4-68 .mbr-header__subtext {
   color: #ffffff;
 }
 #msg-box4-68 .mbr-article {
-  color: #000000;
+  color: #c1c1c1;
 }
 #msg-box4-68 .mbr-article P {
+  color: #c1c1c1;
+}
+#header3-75 H3 {
+  color: #c1c1c1;
+}
+#header3-75 P {
+  color: #c1c1c1;
+}
+#header3-76 H3 {
+  color: #c1c1c1;
+}
+#header3-76 P {
   color: #c1c1c1;
 }
